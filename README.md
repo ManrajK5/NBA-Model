@@ -7,13 +7,14 @@ The project demonstrates a complete ML workflow including **data preprocessing, 
 
 
 ## Project Structure  
+
 NBA-Model/
 ├── notebooks/
-│ └── nba_model.ipynb # Main training notebook
+│   └── nba_model.ipynb
 ├── data/
-│ └── nba_games.csv # Cleaned dataset (not pushed if large)
+│   └── nba_games.csv
 ├── models/
-│ └── nba_model.pkl # Trained model file
+│   └── nba_model.pkl
 ├── README.md
 └── requirements.txt
 
@@ -46,4 +47,5 @@ Real-time predictions via Basketball Reference scraping
 Integration of player-level advanced stats
 
 Live dashboard for visualizing game outcomes
+
 
