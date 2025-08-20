@@ -43,7 +43,7 @@ Run all cells to:
 - Save the trained model
 
 2. Making Predictions
-Load a saved model and predict outcomes:
+Load a saved model and predict outcomes
 
 
 ## Future Work
@@ -52,6 +52,7 @@ Real-time predictions via Basketball Reference scraping
 Integration of player-level advanced stats
 
 Live dashboard for visualizing game outcomes
+
 
 
 
