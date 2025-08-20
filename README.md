@@ -5,7 +5,6 @@ This repository contains a machine learning pipeline for predicting NBA game out
 
 The project demonstrates a complete ML workflow including **data preprocessing, model training, evaluation, and serialization**.  
 
--
 
 ## Project Structure  
 NBA-Model/
@@ -18,7 +17,6 @@ NBA-Model/
 ├── README.md
 └── requirements.txt
 
--
 
 ## Dependencies  
 - Python 3.8+  
@@ -28,7 +26,6 @@ NBA-Model/
 - matplotlib, seaborn  
 - joblib  
 
--
 
 ## Usage
 1. Training the Model
@@ -42,7 +39,6 @@ Run all cells to:
 2. Making Predictions
 Load a saved model and predict outcomes:
 
--
 
 ## Future Work
 Real-time predictions via Basketball Reference scraping
@@ -50,3 +46,4 @@ Real-time predictions via Basketball Reference scraping
 Integration of player-level advanced stats
 
 Live dashboard for visualizing game outcomes
+
